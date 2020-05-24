@@ -70,7 +70,7 @@ Added model for epoch_5_iteration_1000 in the ``saved_models`` folder. This is n
 
 Input Image | Predictions
 ------------ | -------------
-<img src="Images/frackleberry.png" width="100" height="32" /> | frackleberry
+<img src="Images/frackleberry.png" width="100" height="32" /> | farkleberry
 <img src="Images/turnstiles.png" width="100" height="32" /> | turnstiles
 
 
